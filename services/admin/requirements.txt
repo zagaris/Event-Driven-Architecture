@@ -1,0 +1,6 @@
+Django==3.1.6
+djangorestframework==3.12.2
+django-cors-headers==3.7.0
+django-mysql==3.11.1
+mysqlclient==2.0.3
+pika==1.2.0
