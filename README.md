@@ -15,7 +15,6 @@ https://github.com/zagaris/Event-Driven-Architecture.git
 cd Event-Driven-Architecture
 ```
 Install the dependencies for the django service and run it
-amqps_key'
 ```bash
 cd admin
 pip install dependencies.txt
